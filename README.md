@@ -4,6 +4,10 @@
 
 Open the latest release and select the `.apk` file under **Assets**. The source-code ZIP and TAR files are not the Android game.
 
+**No GitHub account or sign-in is required.** This download repository is public; the separate client development repository is private.
+
+For a one-click download of the verified v1.0.38 release: **[Download DCRO v1.0.38 APK](https://github.com/Kogollones/dcro-downloads/releases/download/v1.0.38/dcro-1.0.38.apk)**. This starts the APK download directly. Use the latest-release link above to check for newer versions.
+
 This independent download mirror distributes the same signed APK as the game's official update service. Each release includes a `SHA256SUMS` file for checking that the download is complete and unchanged.
 
 ## Update an existing installation
